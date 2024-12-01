@@ -144,6 +144,9 @@ $(document).ready(function () {
 测试图片：
 https://raw.githubusercontent.com/ianare/exif-samples/refs/heads/master/jpg/Canon_40D.jpg
 
-需要cors跨域的才能读取到
+需要支持cors跨域的图片链接才能读取到
 参考：
-1 . 
+1 . https://github.com/mattiasw/ExifReader
+2 . 
+https://syachikuai.com/2022/11/26/exif-js/
+
